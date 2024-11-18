@@ -1,0 +1,50 @@
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.env
+*.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Flask-specific files
+instance/
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+*.env
+
+# Firebase service account key
+serviceAccountKey.json
+
+# Logs
+*.log
+logs/
+*.out
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
